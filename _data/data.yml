@@ -129,7 +129,7 @@ projects:
       link: https://github.com/LukasForst/katlib
       tagline: Collection of Kotlin extension functions and utilities.
 
-    - title: Katlib
+    - title: Exposed Upsert
       link: https://github.com/LukasForst/exposed-upsert
       tagline: PostgreSQL upsert for Exposed framework
 
