@@ -19,7 +19,7 @@ sidebar:
     github: LukasForst
     gitlab:
     bitbucket:
-    twitter: '@lukas_forst'
+    twitter: lukas_forst
     stack-overflow:  7169288/Lukas Forst # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -34,46 +34,47 @@ sidebar:
         level: Basics
         
     interests:
-      - item: Music
+      - item: Music - Fousy Band
         link: https://fousyband.com/
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Pursuing a Cyber Security Master's degree at CTU, Lukas has 
+      he has four years of experience building production-ready software.
+      Starting his career in the Prague-based AI startup Blindspot Solutions 
+      and then moving to a cybersecurity startup in Berlin - Wire.
+      In the begining of 2020, Lukas co-founded medical AI startup, Mild Blue,
+      where he is responsible for the producs and company security. 
 
 education:
+    - degree: MSc in Computer Science, Cyber Security
+      university: Faculty of Electrical Engineering, Czech Technical University in Prague
+      time: 2019 - present
+      details: |
+        Focusing on cyber security in depth, starting with group theory to machine learning
+        in network data.
+        
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Faculty of Computer Engineering, Aarhus University
+      time: 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Erasmus exchange. My studies focused on distributed computations and network security.
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science, Software Engineering
+      university: Faculty of Electrical Engineering, Czech Technical University in Prague
+      time: 2016 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I passed multiple courses with a focus on artificial intelligence, 
+        game theory, databases, data structures, algorithms, 
+        software engineering and functional as well as on object programming.
+        During my first year of study, I was hired by a spin-off university startup 
+        as a software engineer in the second semester by my professor.
 
-          - Bullet point
-          - Bullet point 
+        Bachelor Thesis 'Design and implementation of a scalable server for 
+        parallelization of optimization algorithms execution.' - a heuristic 
+        combinatorial optimization software for scheduling the long-running optimization 
+        jobs in the massive infrastructure written in Kotlin.
 
 experiences:
     - role: Lead Developer
@@ -146,26 +147,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
