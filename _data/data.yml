@@ -39,11 +39,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Pursuing a Cyber Security Master's degree at CTU, Lukas has
-    he has four years of experience building production-ready software.
-    Starting his career in the Prague-based AI startup Blindspot Solutions
-    and then moving to a cybersecurity startup in Berlin - Wire.
-    In the begining of 2020, Lukas co-founded medical AI startup, Mild Blue,
+    Motivated and self-driven Software Engineer with in-depth knowledge of Kotlin,
+    Software Architecture and passion for functional programming all the way
+    from the lambda calculus through the Haskell to the Kotlin & JavaScript.
+    Loves designing and implementing one-click DevOps and have strong
+    experience in architecture design (including PaaS, SaaS) as well as mathematical
+    background ranging from group theory, data analysis, utilisation of AI,
+    predictions to mathematical optimisation. Have proven experience in software engineering,
+    software architecture, clients handling and leading junior colleagues.
+
+    Pursuing a Cyber Security Master's degree at CTU, Lukas started his career in the
+    Prague-based AI startup Blindspot Solutions and then moved to a cybersecurity startup in
+    Berlin - Wire. In the begining of 2020, Lukas co-founded a medical AI startup, Mild Blue,
     where he is responsible for the producs and company security.
 
 education:
