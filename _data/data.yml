@@ -91,6 +91,7 @@ experiences:
       - responsible for the security of the products and the whole company
       - implementing core parts of the software products
       - developing CI/CD pipelines
+      - Python, Flask, SQLAlchemy, Docker, Docker Compose, Github Actions, Digital Ocean
 
   - role: Software Engineer
     time: 02/2020 - Present
@@ -99,21 +100,20 @@ experiences:
       - introducing new integrations to Wire - Charon, Polls, Ganymede, Narvi
       - maintainer of the core Wire billing system
       - responsible for designing and building fully monitored (logging, metrics,
-        requests tracing, deployments) cloud (Kubernetess based) from scratch for Wire integrations
+        requests tracing, deployments) cloud (Kubernetess) from scratch for Wire integrations
       - working on hardening of crypto libraries and standardising bots code & infrastructure
       - Kotlin, Python, Java, Ktor, Exposed, Dropwizard, Flask, SQLAlchemy, PostgreSQL, Redis,
-        Kubernetes, Kibana, Prometheus, Github Actions, Google Cloud, AWS
+        Docker, Docker-Compose, Kubernetes, Kibana, Prometheus, Github Actions, Google Cloud, AWS
 
   - role: Software Engineer
     time: 06/2017 - 01/2020
     company: Blindspot Solutions s.r.o., Prague
     details: |
       - implementing the end to end artificial inteligence solutions for the clients
-      - in late 2019, co-designing the architecture and working as a tech lead
-      - languages used: C#, Kotlin, Java
-      - .NET, Entity Framework, LINQ, MS SQL, Azure, SharePoint integration,
+      - in late 2019, co-designing the architecture and leading the teams from technical side of the projects
+      - C#, Kotlin, Java, .NET, Entity Framework, LINQ, MS SQL, Azure, SharePoint integration,
         Spring Boot, Hibernate, PostgreSQL, AWS, Tomcat, Oracle 12c Database, SAP HANA,
-        Gradle, Ktor, WebFlux, Terraform, Docker, Kubernetes, PostgreSQL, RabbitMQ,
+        Gradle, Ktor, WebFlux, Terraform, Docker, Docker-Compose, Kubernetes, PostgreSQL, RabbitMQ,
         Azure Service Bus, Azure Cloud Storage, Azure Kubernetes Service, Azure Container Registry
 
 
