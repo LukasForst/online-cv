@@ -78,7 +78,7 @@ education:
 experiences:
   - role: DevSecOps & Software Engineer, Co-founder
     time: 04/2020 - Present
-    company: Mild Blue, Prague
+    company: Mild Blue s.r.o., Prague
     details: |
       - designing architecture for the AI powered medical software
       - responsible for the security of the products and the whole company
@@ -87,7 +87,7 @@ experiences:
 
   - role: Software Engineer
     time: 02/2020 - Present
-    company: Wire, Berlin
+    company: Wire GmbH, Berlin
     details: |
       - introducing new integrations to Wire - Charon, Polls, Ganymede, Narvi
       - maintainer of the core Wire billing system
@@ -99,7 +99,7 @@ experiences:
 
   - role: Software Engineer
     time: 06/2017 - 01/2020
-    company: Blindspot Solutions, Prague
+    company: Blindspot Solutions s.r.o., Prague
     details: |
       - co-designing various products' architecture and implementing the end to end artificial inteligence
         solutions for the clients
@@ -111,22 +111,27 @@ experiences:
 
 
   - role: Information Technology Specialist
-      time: 06/2016 - 08/2016
-      company: APM Automotive s.r.o., Kdyně
-      details: |
-        - development of an application for individual stock items export from xlsx to html
-          enabling instant search for products
-        - C#, .NET
+    time: 06/2016 - 08/2016
+    company: APM Automotive s.r.o., Kdyně
+    details: |
+      - development of an application for individual stock items export from xlsx to html
+        enabling instant search for products
+      - C#, .NET
 
 projects:
   title: Projects
   intro: >
-
+    I believe in Open Source world, for that reason all my school work and all my side projects
+    are open sourced. Ones that caught attention of the other developers are Katlib and Exposed PostgreSQL Upsert.
 
   assignments:
     - title: Katlib
-      link: github.com/LukasForst/katlib
-      tagline: "Collection of Kotlin extension functions and utilities. "
+      link: https://github.com/LukasForst/katlib
+      tagline: Collection of Kotlin extension functions and utilities.
+
+    - title: Katlib
+      link: https://github.com/LukasForst/exposed-upsert
+      tagline: PostgreSQL upsert for Exposed framework
 
 skills:
   title: Skills &amp; Proficiency
