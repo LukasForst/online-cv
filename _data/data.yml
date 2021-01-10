@@ -42,19 +42,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I'm motivated and self-driven Software Engineer with in-depth knowledge of Kotlin,
-    Software Architecture and passion for functional programming all the way
-    from the lambda calculus through the Haskell to the Kotlin & JavaScript.
-    I love designing and implementing one-click DevOps and have a strong
-    experience in architecture design (including PaaS, SaaS) as well as mathematical
-    background ranging from group theory, data analysis, utilisation of AI,
-    predictions to mathematical optimisation. I have a strong experience in software engineering,
-    software architecture, clients handling and leading junior colleagues.
+    I’m motivated and self-driven Software Engineer with in-depth knowledge of Kotlin, 
+    Software Architecture and passion for functional programming all the way from the lambda calculus 
+    through the Haskell to the Kotlin & JavaScript. I love designing and implementing one-click DevOps 
+    and have a strong experience in architecture design (including PaaS, SaaS) as well as mathematical 
+    background ranging from group theory, data analysis, utilisation of AI, predictions to 
+    mathematical optimisation. I have a strong experience in software engineering, software architecture, 
+    clients handling and leading junior colleagues.
 
-    I'm currently pursuing a Cyber Security Master's degree at CTU. I started my career in the
-    Prague-based AI startup Blindspot Solutions and then moved to a cybersecurity startup in
-    Berlin - Wire. In the begining of 2020, I co-founded a medical AI startup, Mild Blue,
-    where I'm responsible for the producs and company security.
+    I’m currently pursuing a Cyber Security Master’s degree at CTU. I started my career in the 
+    Prague-based AI startup Blindspot Solutions and then moved to a cybersecurity startup in Berlin - Wire. 
+    In the beginning of 2020, I co-founded a medical AI startup, Mild Blue, where I’m responsible 
+    for the products' and company security. 
 
 education:
   - degree: MSc in Computer Science, Cyber Security
@@ -66,7 +65,7 @@ education:
 
   - degree: MSc in Computer Science
     university: Faculty of Computer Engineering, Aarhus University, Denmark
-    time: 2020-2021
+    time: 2020 - 2021
     details: |
       Erasmus exchange. My studies focused on distributed computations and network security.
 
@@ -92,9 +91,10 @@ experiences:
     details: |
       - designing architecture for the AI powered medical software
       - responsible for the security of the products and the whole company
+      - responsible for the projects' DevOps
       - implementing core parts of the software products
-      - developing CI/CD pipelines
-      - Python, Flask, SQLAlchemy, Docker, Docker Compose, Github Actions, Digital Ocean
+      - Kotlin, Python, Spring Boot, Hibernate, Flask, SQLAlchemy, JavaScript, Angular, Ionic, 
+        PostgreSQL, Github Actions, Docker, Docker Compose, Terraform, AWS, Digital Ocean
 
   - role: Software Engineer
     time: 02/2020 - Present
@@ -102,22 +102,23 @@ experiences:
     details: |
       - introducing new integrations to Wire - Charon, Polls, Ganymede, Narvi
       - maintainer of the core Wire billing system
-      - responsible for designing and building fully monitored (logging, metrics,
-        requests tracing, deployments) cloud (Kubernetess) from scratch for Wire integrations
+      - responsible for designing and building fully monitored (logging, metrics, 
+        requests tracing, deployments) cloud (K8s) from scratch for Wire integrations
       - working on hardening of crypto libraries and standardising bots code & infrastructure
-      - Kotlin, Python, Java, Ktor, Exposed, Dropwizard, Flask, SQLAlchemy, PostgreSQL, Redis,
-        Docker, Docker-Compose, Kubernetes, Kibana, Prometheus, Github Actions, Google Cloud, AWS
+      - Kotlin, Python, Java, Ktor, Exposed, Dropwizard, Flask, SQLAlchemy, PostgreSQL, Redis, 
+        Kubernetes, Helm, Kibana, Prometheus, Github Actions, Google Cloud, AWS
 
   - role: Software Engineer
     time: 06/2017 - 01/2020
     company: Blindspot Solutions s.r.o., Prague
     details: |
       - implementing the end to end artificial inteligence solutions for the clients
+      - responsible for the projects' DevOps - CI, CD pipelines, deployment on-premise
       - in late 2019, co-designing the architecture and leading the teams from technical side of the projects
-      - C#, Kotlin, Java, .NET, Entity Framework, LINQ, MS SQL, Azure, SharePoint integration,
-        Spring Boot, Hibernate, PostgreSQL, AWS, Tomcat, Oracle 12c Database, SAP HANA,
-        Gradle, Ktor, WebFlux, Terraform, Docker, Docker-Compose, Kubernetes, PostgreSQL, RabbitMQ,
-        Azure Service Bus, Azure Cloud Storage, Azure Kubernetes Service, Azure Container Registry
+      - Kotlin, C#, Java, .NET, Entity Framework, LINQ, MS SQL, Azure, SharePoint integration, Spring Boot, 
+        Hibernate, PostgreSQL, AWS, Tomcat, Oracle 12c Database, SAP HANA, Gradle, Ktor, WebFlux, Terraform, 
+        Docker, Docker-Compose, Kubernetes, PostgreSQL, RabbitMQ, Azure Service Bus, Azure Cloud Storage, 
+        Azure Kubernetes Service, Azure Container Registry, AWS ECS, AWS RDS, AWS EC2
 
 
   - role: Information Technology Specialist
@@ -132,7 +133,7 @@ projects:
   title: Projects
   intro: >
     I believe in Open Source world, for that reason all my school work and all my side projects
-    are open sourced. Ones that caught attention of the other developers are Katlib and Exposed PostgreSQL Upsert.
+    are open sourced. Ones that I'm proud of are Katlib and Exposed PostgreSQL Upsert.
 
   assignments:
     - title: Katlib
